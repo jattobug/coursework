@@ -1,0 +1,59 @@
+[data-kazkas="kazkam"] {
+    color: orange;
+}
+
+#kas {
+    color: crimson;
+}
+
+.bu-bu {
+    color: blueviolet;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+* {
+    color: aquamarine;
+}
+
+.labas .ate {
+    color: brown;
+}
+
+.labas.ate {
+    color: chocolate;
+}
+
+.labas {
+    color: blue;
+}
+
+.labukas .zuikis {
+    color: lightblue;
+}
+
+.labukas >.zuikis {
+    color: darkred;
+}
+
+.bebras {
+    color: darkblue;
+    font-style: italic;
+}
+
+.bebras + div {
+    color: darkred;
+    font-style: italic;
+}
+
+.briedis {
+    color: darkblue;
+    font-style: italic;
+}
+
+.briedis ~ div {
+    color: darkred;
+    font-style: italic;
+}
