@@ -1,9 +1,5 @@
 #square {
-    width: 10px;
-    height: 10px;
-    background-color: blue;
-    cursor: pointer;
-    margin: 50px 0 0 20px;
+    width: 100%
 }
 
 

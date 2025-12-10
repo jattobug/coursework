@@ -1,0 +1,27 @@
+#Green {background-color: lightgreen;}
+
+#Blue {background-color: lightblue;}
+
+#Red {background-color: lightcoral;}
+
+.colorList {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin: 4px;
+    border: 1px solid rgb(136, 99, 205);
+}
+
+.nd button {
+    width: 160px;
+height: 30px;
+border: 0.5px solid rgb(136, 99, 205);
+cursor: pointer;
+border-radius: 12px;
+margin: 5px;
+}
+
+.nd button:active {
+  box-shadow: 0 2px #e5e5e5;
+  transform: translateY(2px);
+}
