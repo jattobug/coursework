@@ -1,0 +1,39 @@
+> daugiau
+< maziau
+>= daugiau arba lygu
+<= maziau arba lygu
+== lygu
+=== grieztai lygu
+ 
+console.log('true || true', true || true);		|| = arba
+console.log('true || false', true || false);
+console.log('false || true', false || true);
+console.log('false || false', false || false);
+ 
+console.log('true && true', true && true);		&& = ir
+console.log('true && false', true && false);
+console.log('false && true', false && true);
+console.log('false && false', false && false);
+
+
+
+// if (sąlygos vieta) {
+// TAIP veiksmas
+// } else {				if else formula
+// NE veiksmas
+// }
+// ? = if
+// ! = not
+// : = this or that
+
+
+
+// for (let i = 0; i <= 5; i++) {
+//     console.log("Labas rytas" +i);		ciklo/ loop formula
+// }
+
+
+
+//const one = {}; // tuscias objektas. Objektai containina viena daikta.
+
+// const two = []; // tuscias masyvas/ array. Masyvai containina vienodus daiktus, nebutinai 100% vienodi
