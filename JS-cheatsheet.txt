@@ -37,3 +37,16 @@ console.log('false && false', false && false);
 //const one = {}; // tuscias objektas. Objektai containina viena daikta.
 
 // const two = []; // tuscias masyvas/ array. Masyvai containina vienodus daiktus, nebutinai 100% vienodi
+
+
+
+// array methods
+// // Kada kokį metodą naudoti:
+// // Pridėti elementą → push, unshift
+// // Pašalinti elementą → pop, shift
+// // Pridėti / pašalinti bet kurioje vietoje → splice
+// // Kopijuoti masyvą (ar jo dalį) → slice
+// // Ieškoti → indexOf, .lastIndexOf() , includes
+// // Pereiti per masyvą (iteruoti) → for, forEach
+// // Sukurti pakeistą (transformuotą) masyvą → map
+// // Atrinkti tik tam tikrus elementus → filter
