@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="app.js"></script>
+    <script src="app.js" defer></script>
     <link rel="stylesheet" style.css">
 </head>
 
@@ -13,13 +13,9 @@
 <body>
 
     <section class="jattobug-sekcija">
-        <div class="b">
-            <button></button>
-        </div>
-
         <div class="h">
-            <input type="tekstas" id="wordInput">
-            <button onclick="addWord()">Pridėti</button>
+            <input type="text" id="wordInput">
+            <button id="addButton">Pridėti</button>
             <ol id="wordList"></ol>
         </div>
     </section>
